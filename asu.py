@@ -1,1 +1,1 @@
-hello world boy
+print "asu"
